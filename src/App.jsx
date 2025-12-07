@@ -11,7 +11,7 @@ import imgHablando from './assets/images/avatar-hablando.png'
 import imgCantando from './assets/images/avatar-cantando.png'
 import imgPosando from './assets/images/avatar-posando.png'
 import imgJoven from './assets/images/avatar-joven.png'
-import cvFile from './assets/images/CV_Enrique_Sanz.pdf'
+import cvFile from './assets/CV_Enrique_Sanz.pdf'
 
 // --- CONSTANTES JUEGO SNAKE ---
 const GRID_SIZE = 20; 
