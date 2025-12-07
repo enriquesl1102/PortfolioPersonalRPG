@@ -11,6 +11,7 @@ import imgHablando from './assets/images/avatar-hablando.png'
 import imgCantando from './assets/images/avatar-cantando.png'
 import imgPosando from './assets/images/avatar-posando.png'
 import imgJoven from './assets/images/avatar-joven.png'
+import cvFile from './assets/images/CV_Enrique_Sanz.pdf'
 
 // --- CONSTANTES JUEGO SNAKE ---
 const GRID_SIZE = 20; 
@@ -421,7 +422,7 @@ function App() {
                           <SocialLink link="https://www.linkedin.com/in/enrique-sanz-l%C3%B3pez-2423a8346/" icon={<FaLinkedin />} />
                           <SocialLink link="mailto:enriquesl1102@gmail.com" icon={<FaEnvelope />} />
                         </motion.div>
-                        <motion.a href="/CV_Enrique_Sanz.pdf" download="CV_Enrique_Sanz.pdf" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.5 }} whileHover={{ scale: 1.05, backgroundColor: '#ff4d4d', color: '#000' }} style={{ display: 'inline-flex', alignItems: 'center', gap: '10px', padding: '10px 20px', border: '2px solid #ff4d4d', color: '#ff4d4d', textDecoration: 'none', fontSize: '1.2rem', cursor: 'pointer', fontWeight: 'bold', borderRadius: '5px' }}>
+                        <motion.a href={cvFile} download="CV_Enrique_Sanz.pdf" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.5 }} whileHover={{ scale: 1.05, backgroundColor: '#ff4d4d', color: '#000' }} style={{ display: 'inline-flex', alignItems: 'center', gap: '10px', padding: '10px 20px', border: '2px solid #ff4d4d', color: '#ff4d4d', textDecoration: 'none', fontSize: '1.2rem', cursor: 'pointer', fontWeight: 'bold', borderRadius: '5px' }}>
                           <FaFileDownload /> {t.contact.download}
                         </motion.a>
                         <div style={{ marginTop: '50px' }}>
