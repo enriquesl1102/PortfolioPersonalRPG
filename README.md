@@ -1,6 +1,6 @@
 # 🎮 Quique Sanz - Portfolio Adventure
 
-![Portfolio Preview](screenshot.png)
+![Portfolio Preview](Screenshot.png)
 
 > Un portfolio interactivo estilo "consola retro" construido con React, Vite y Framer Motion.
 
@@ -79,11 +79,11 @@ src/
 ├── App.jsx          # Lógica principal, routing manual y estado
 ├── index.css        # Estilos globales, CRT scanlines y carcasa consola
 └── main.jsx         # Punto de entrada de React
-👨‍💻 Autor
-Enrique Sanz Ingeniero Electrónico & Desarrollador de Software Embebido
+```
 
-GitHub
+👨‍💻 Autor:
+**Enrique Sanz**, Ingeniero Electrónico & Desarrollador de Software Embebido
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/enrique-sanz-l%C3%B3pez-2423a8346/)
 
 Hecho con ☕ y < /> en 2025.
