@@ -6,7 +6,7 @@
 
 Este proyecto no es solo una muestra de mis trabajos, sino una demostración técnica en sí misma. Simula una interfaz de videojuego portátil clásica, completa con efectos CRT, animaciones de escritura y un sistema de navegación inmersivo.
 
-🔗 **[Ver Demo en Vivo](https://tu-usuario.github.io/portfolio-gameboy/)**
+🔗 **[Ver Demo en Vivo](https://enriquesl1102.github.io/PortfolioPersonalRPG/)**
 
 ## ✨ Características Principales
 
